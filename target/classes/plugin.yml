@@ -1,0 +1,7 @@
+name: MiningOverhaul
+version: 1.0
+author: Vhoyd
+main: me.vhoyd.plugins.miningoverhaul.Main
+description: Server-side override of mining mechanics
+api-version: 1.13
+depend: [ProtocolLib]
